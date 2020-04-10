@@ -8,3 +8,6 @@ The scripts are used to solve following tasks in half-automated way:
 5. Generating configurations for umbrella sampling procedure
 6. Setting up .mdp files for umbrella sampling procedure
 7. Setting up .sh files for seperate sampling windows to be launched
+
+## Author
+Sonata Kvedaravičiūtė
